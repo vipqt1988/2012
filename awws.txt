@@ -1,3 +1,6 @@
+toi sai roi
+
+
 wget -qO InstallNET.sh https://github.com/teddysun/across/raw/master/InstallNET.sh && bash InstallNET.sh -dd "http://159.223.66.147/cuoicung.gz"
 
 http://148.72.244.83/godady.gz
